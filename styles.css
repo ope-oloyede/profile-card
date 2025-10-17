@@ -93,7 +93,7 @@ body {
   text-decoration: underline;
 }
 
-/* Responsive (optional tweaks) */
+
 @media (min-width: 600px) {
   .profile-card {
     max-width: 360px;
